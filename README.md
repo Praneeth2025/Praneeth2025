@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg" align="center" style="width: 100%" />
+<img src="https://drive.google.com/file/d/1kvSuAvkRHIO8Kg-Qb3Bng9CHch2DMwmx/view?usp=sharing" align="center" style="width: 100%" />
 </div> 
 
 ## Hi there 👋
