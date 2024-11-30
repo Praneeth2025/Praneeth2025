@@ -49,8 +49,7 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img style="margin: 30px" src="https://github.com/user-attachments/assets/c0e85433-e047-42ae-a256-dbf7fe5799f1" alt="Matplotlib" height="50" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 30px" src="https://github.com/user-attachments/assets/5aa09412-2691-4b05-9864-ea955eace939
-" alt="Pandas" height="50" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 30px" src="https://github.com/user-attachments/assets/5aa09412-2691-4b05-9864-ea955eace939" alt="Pandas" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
