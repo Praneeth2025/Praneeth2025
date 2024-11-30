@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Natural Language Processing Generative AI  
 
-- 📫 You can reach me via: [mail](mailto:vamsipraneeth2004@gmail.com)
+- 📫 You can reach me via: [G-Mail](mailto:vamsipraneeth2004@gmail.com)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
