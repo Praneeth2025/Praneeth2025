@@ -51,6 +51,8 @@
   <a href="https://matplotlib.org/" target="_blank"><img style="margin: 30px" src="https://github.com/user-attachments/assets/c0e85433-e047-42ae-a256-dbf7fe5799f1" alt="Matplotlib" height="50" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 30px" src="https://github.com/user-attachments/assets/5aa09412-2691-4b05-9864-ea955eace939" alt="Pandas" height="50" /></a>
 </div>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 30px" src="https://github.com/user-attachments/assets/3e8a8bec-f640-4299-ba34-c4cc7790ea2f" alt="Scikit-Learn" height="50" /></a>
+</div>
 
 </td><td valign="top" width="33%">
 
