@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1kvSuAvkRHIO8Kg-Qb3Bng9CHch2DMwmx/view?usp=sharing" align="center" style="width: 100%" />
+![Hello There](https://github.com/user-attachments/assets/5d146d0b-c48d-4c59-b7b6-99aa958fe4ab)
 </div> 
 
 ## Hi there 👋
