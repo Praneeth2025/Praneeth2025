@@ -1,5 +1,6 @@
 <div align="center">
-https://github.com/user-attachments/assets/5d146d0b-c48d-4c59-b7b6-99aa958fe4ab
+  <img src="https://github.com/user-attachments/assets/5d146d0b-c48d-4c59-b7b6-99aa958fe4ab" align="center" style="width: 100%" />
+
 </div> 
 
 ## Hi there 👋
