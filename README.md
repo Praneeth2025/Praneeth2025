@@ -19,7 +19,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- Feel free to connect or collaborate on exciting projects! 😊  
+-📫 Let’s Collaborate!: Open to projects in AI, ML, and data science.  
   
 
 <br/>  
