@@ -10,9 +10,8 @@
   
 
 - 🔭 I’m currently working on [AI for Robotic Chess Arm](https://github.com/Praneeth2025/chess-image-recognizer)  
-  
-
-- 🌱 I’m currently learning Natural Language Processing Generative AI  
+- 🌱 I’m currently learning Natural Language Processing Generative AI
+- 📃 To view my resume [click here](https://drive.google.com/file/d/1p6Cd2EEjTRpHyJa-WY_tYvQBG6Ihsg1D/view?usp=sharing) 
 
 - 📫 You can reach me via: [G-Mail](mailto:vamsipraneeth2004@gmail.com)
 
