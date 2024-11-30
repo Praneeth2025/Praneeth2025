@@ -5,7 +5,7 @@
 </div> 
 
 
-## <div align="center">I'm an aspiring ML developer👨‍💻Currently Studying at IIT Bhubaneswar 🚀</div>  
+## <div align="center">I'm an aspiring Macine Learning developer👨‍💻Currently Studying at IIT Bhubaneswar 🚀</div>  
   
 
 - 🔭 I’m currently working on [AI for Robotic Chess Arm](https://github.com/Praneeth2025/chess-image-recognizer)  
