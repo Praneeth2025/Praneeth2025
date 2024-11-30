@@ -91,7 +91,9 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [A New Blog Series: Python for AI Basics](https://dev.to/praneeth_647b9830399cd2b7/a-new-blog-series-python-for-ai-basics-1jfj)
+- [A Beginner&#39;s Guide to Exploring Machine Learning in 2025](https://dev.to/praneeth_647b9830399cd2b7/a-beginners-guide-to-exploring-machine-learning-in-2025-411m)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
