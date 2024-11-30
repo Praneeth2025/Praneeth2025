@@ -9,7 +9,7 @@
 
 ## <div align="center">I'm an aspiring ML developer👨‍💻Currently Studying at <br> IIT Bhubaneswar 🚀</div>  
   
-&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;I am a passionate person about finding valuable insights in data. I believe that data holds all the answers; we just need to organize and analyze it properly. I have experience in deep learning and generative AI, and I enjoy creating new and effective solutions. I am always eager to learn, try new things, and work with others on meaningful projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a passionate person about finding valuable insights in data. I believe that data holds all the answers; we just need to organize and analyze it properly. I have experience in deep learning and generative AI, and I enjoy creating new and effective solutions. I am always eager to learn, try new things, and work with others on meaningful projects.
 
 - 🎓 currently studying b-tech at IIT Bhubaneshwar
 - 🔭 working on an [AI for Robotic Chess Arm](https://github.com/Praneeth2025/chess-image-recognizer)  
