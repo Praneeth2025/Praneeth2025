@@ -1,5 +1,5 @@
 <div align="center">
-![Hello There](https://github.com/user-attachments/assets/5d146d0b-c48d-4c59-b7b6-99aa958fe4ab)
+https://github.com/user-attachments/assets/5d146d0b-c48d-4c59-b7b6-99aa958fe4ab
 </div> 
 
 ## Hi there 👋
