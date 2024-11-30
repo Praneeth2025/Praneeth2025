@@ -19,7 +19,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- Feel free to connect or collaborate on exciting projects! 😊  
   
 
 <br/>  
