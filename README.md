@@ -109,6 +109,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Day -2 : Mastering basics of Python](https://dev.to/praneeth_647b9830399cd2b7/day-2-mastering-basics-of-python-4ama)
 - [Day 1: Mastering the Basics of Python](https://dev.to/praneeth_647b9830399cd2b7/day-1-mastering-the-basics-of-python-10mp)
 - [A New Blog Series: Python for AI Basics](https://dev.to/praneeth_647b9830399cd2b7/a-new-blog-series-python-for-ai-basics-1jfj)
 - [A Beginner&#39;s Guide to Exploring Machine Learning in 2025](https://dev.to/praneeth_647b9830399cd2b7/a-beginners-guide-to-exploring-machine-learning-in-2025-411m)
