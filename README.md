@@ -109,6 +109,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Day 3: Mastering the Art of Conditional Statements and Loops](https://dev.to/praneeth_647b9830399cd2b7/day-3-mastering-the-art-of-conditional-statements-and-loops-1ihp)
 - [Day -2 : Mastering basics of Python](https://dev.to/praneeth_647b9830399cd2b7/day-2-mastering-basics-of-python-4ama)
 - [Day 1: Mastering the Basics of Python](https://dev.to/praneeth_647b9830399cd2b7/day-1-mastering-the-basics-of-python-10mp)
 - [A New Blog Series: Python for AI Basics](https://dev.to/praneeth_647b9830399cd2b7/a-new-blog-series-python-for-ai-basics-1jfj)
