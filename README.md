@@ -109,11 +109,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Day 5: Python Lists Demystified: Tips, Tricks, and Best Practices](https://dev.to/praneeth_647b9830399cd2b7/day-5-python-lists-demystified-tips-tricks-and-best-practices-4mn3)
 - [Day 4 :Everything You Need to Know About Functions in Python](https://dev.to/praneeth_647b9830399cd2b7/day-4-everything-you-need-to-know-about-functions-in-python-4hnl)
 - [Day 3: Mastering the Art of Conditional Statements and Loops](https://dev.to/praneeth_647b9830399cd2b7/day-3-mastering-the-art-of-conditional-statements-and-loops-1ihp)
 - [Day -2 : Mastering basics of Python](https://dev.to/praneeth_647b9830399cd2b7/day-2-mastering-basics-of-python-4ama)
 - [Day 1: Mastering the Basics of Python](https://dev.to/praneeth_647b9830399cd2b7/day-1-mastering-the-basics-of-python-10mp)
-- [A New Blog Series: Python for AI Basics](https://dev.to/praneeth_647b9830399cd2b7/a-new-blog-series-python-for-ai-basics-1jfj)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
