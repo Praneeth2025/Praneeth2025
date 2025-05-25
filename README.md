@@ -23,26 +23,10 @@
 <br/>  
 
 
-### My Skill Set  
-### 🚀 Skill Set
 
-**Languages:**  
-Python 🐍 • JavaScript ⚙️ • TypeScript 🛠 • Java ☕ • SQL 🗄
+## 🚀 Skill Set
 
-**Frameworks / Libraries:**  
-LangChain 🔗 • Hugging Face 🤗 • FastAPI ⚡ • Streamlit 📊 • React ⚛️ • Node.js 🌿 • TensorFlow 🔬 • PyTorch 🔥
 
-**Databases / Storage:**  
-PostgreSQL 🐘 • MongoDB 🍃 • Redis ⚡ • FAISS 🏎 • Chroma 🟣 • SQLite 📦
-
-**Cloud / DevOps:**  
-AWS ☁️ • Azure ☁️ • Docker 🐳 • Kubernetes ☸️ • GitHub Actions 🔄
-
-**Tools / Platforms:**  
-Git 🔧 • VS Code 🖥 • Jupyter 📓 • Linux 🐧 • Postman 📮 • Figma 🎨
-
-**AI / NLP:**  
-LLMs 💬 • Transformers 🤗 • Embeddings 🔑 • Semantic Search 🔍 • RAG Systems 📚
 
 
 
@@ -90,7 +74,7 @@ LLMs 💬 • Transformers 🤗 • Embeddings 🔑 • Semantic Search 🔍 •
 <br/>  
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneeth2025&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
