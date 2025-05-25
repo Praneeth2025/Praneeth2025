@@ -24,7 +24,27 @@
 
 
 ### My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 🚀 Skill Set
+
+**Languages:**  
+Python 🐍 • JavaScript ⚙️ • TypeScript 🛠 • Java ☕ • SQL 🗄
+
+**Frameworks / Libraries:**  
+LangChain 🔗 • Hugging Face 🤗 • FastAPI ⚡ • Streamlit 📊 • React ⚛️ • Node.js 🌿 • TensorFlow 🔬 • PyTorch 🔥
+
+**Databases / Storage:**  
+PostgreSQL 🐘 • MongoDB 🍃 • Redis ⚡ • FAISS 🏎 • Chroma 🟣 • SQLite 📦
+
+**Cloud / DevOps:**  
+AWS ☁️ • Azure ☁️ • Docker 🐳 • Kubernetes ☸️ • GitHub Actions 🔄
+
+**Tools / Platforms:**  
+Git 🔧 • VS Code 🖥 • Jupyter 📓 • Linux 🐧 • Postman 📮 • Figma 🎨
+
+**AI / NLP:**  
+LLMs 💬 • Transformers 🤗 • Embeddings 🔑 • Semantic Search 🔍 • RAG Systems 📚
+
+
 
 
 
